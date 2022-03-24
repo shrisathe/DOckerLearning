@@ -1,0 +1,33 @@
+	Completed  Docker  learning path on O'reilly platform – “ The Complete Practical Docker “ Guide by Bogdan Stashchuk
+	Docker Mindmap : https://www.mindmeister.com/740696443/docker?fullscreen=1
+	Key learning :
+•	Introduction to the Docker Fundamentals
+•	Introduction to the Images and Containers - Building Docker Image and creating Containers.
+•	Basic Docker Container (Ubuntu, Busybox, Alpine) - Pulling the docker images from docker repositary and running the containers
+•	Port and Volume Mapping in the Docker Containers 
+•	Running Python Applications in Docker
+•	Communication Between Containers and Environment Variables (MySQL, phpMyAdmin)
+•	Default and Custom Bridge Networks in Docker (WordPress, MySQL)
+
+The Docker technology uses the Linux kernel and features of the kernel so learning Linux is also important and that’s why the course includes  linux basics.
+•	Processes in Linux
+•	Data Streams and Piping in Linux
+•	Files and Directories Management in Linux
+•	Search Operations in Linux
+•	Compressing and Sorting in Linux
+•	User Management and Permissions in Linux
+•	Executable Files and Scripting in Linux
+•	Networking in Linux
+•	Environment Variables in Linux
+
+Now coming to the Docker Security part following resources helped to learn about Docker Security.Obivously there more resources availble to learn more about container security.
+
+Docker Security :
+https://docs.docker.com/engine/security/
+https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html
+https://github.com/gunjan5/container-security
+https://www.youtube.com/watch?v=E_0vxpL_lxM
+
+Happy Learning !!!
+
+
